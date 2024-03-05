@@ -3,6 +3,7 @@
 
 
 Projeto Aplicado II
+
 Repositorio referente a entrega da atividade de projeto aplicado 2 - Mackenzie 2023 3° Semestre.
 
 A INFLUÊNCIA DAS MAIORES EMPRESAS DOS EUA E SEUS INSIGHTS
