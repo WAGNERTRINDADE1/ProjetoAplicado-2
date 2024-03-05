@@ -1,4 +1,5 @@
-![image](https://github.com/WAGNERTRINDADE1/ProjetoAplicado-2/assets/127903524/632db52d-3928-4dd2-9f92-a9f0fd7c7eeb)
+![image](https://github.com/WAGNERTRINDADE1/ProjetoAplicado-2/assets/127903524/cb7b20cb-8c5b-4b80-a5ed-93e02c1b6916)
+
 
 
 Projeto Aplicado II
